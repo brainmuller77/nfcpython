@@ -5,8 +5,6 @@ Flask-SQLAlchemy
 PyMySQL
 gunicorn
 Werkzeug
-face_recognition
-dlib
 opencv-python
 openai
 cmake
