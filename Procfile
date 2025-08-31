@@ -1,1 +1,1 @@
-web: gunicorn faceapi:app
+web: gunicorn app:app
