@@ -8,6 +8,5 @@ Werkzeug
 opencv-python
 openai
 cmake
-pyscard
 pyttsx3
 requests
