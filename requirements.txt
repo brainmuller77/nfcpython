@@ -1,0 +1,15 @@
+Flask
+Flask-Cors
+Flask-SocketIO
+Flask-SQLAlchemy
+PyMySQL
+gunicorn
+Werkzeug
+face_recognition
+dlib
+opencv-python
+openai
+cmake
+pyscard
+pyttsx3
+requests
